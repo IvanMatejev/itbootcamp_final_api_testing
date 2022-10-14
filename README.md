@@ -11,7 +11,7 @@
     
     * Account verification.
     
-    * ser profile.
+    * User profile.
     
     * Users admin area with CRUD operations.
     
