@@ -3,7 +3,7 @@
   
   Tested Features:
     
-    * Login
+    *Login
     
     * Signup
     
